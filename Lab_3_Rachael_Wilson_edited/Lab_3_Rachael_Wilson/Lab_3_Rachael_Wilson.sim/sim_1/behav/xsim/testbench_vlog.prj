@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/control_unit.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/datapath.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/idexe_pipeline_register.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/ifid_pipeline_register.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/immediate_extender.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/instruction_memory.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/pc_adder.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/program_counter.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/register_file.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/regrt_multiplexer.v" \
+"../../../../Lab_3_Rachael_Wilson.srcs/sources_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

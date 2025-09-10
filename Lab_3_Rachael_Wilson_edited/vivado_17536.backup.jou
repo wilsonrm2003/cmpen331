@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Mar 19 15:01:24 2025
+# Process ID         : 17536
+# Current directory  : C:/Users/booth/Projects/cmpen331/Lab_3_Rachael_Wilson
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent27840 C:\Users\booth\Projects\cmpen331\Lab_3_Rachael_Wilson\Lab_3_Rachael_Wilson.xpr
+# Log file           : C:/Users/booth/Projects/cmpen331/Lab_3_Rachael_Wilson/vivado.log
+# Journal file       : C:/Users/booth/Projects/cmpen331/Lab_3_Rachael_Wilson\vivado.jou
+# Running On         : Rachaels_envy
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz
+# CPU Frequency      : 2918 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8323 MB
+# Swap memory        : 13421 MB
+# Total Virtual      : 21745 MB
+# Available Virtual  : 7126 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/booth/Projects/cmpen331/Lab_3_Rachael_Wilson/Lab_3_Rachael_Wilson.xpr
+update_compile_order -fileset sources_1

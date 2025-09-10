@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="19.841 ns"></ZoomEndTime>
+      <Cursor1Time time="1.010 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="215"></NameColumnWidth>
+      <ValueColumnWidth column_width="87"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="23" />
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/dinstOut" type="array">
+      <obj_property name="ElementShortName">dinstOut[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dinstOut[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/eqa" type="array">
+      <obj_property name="ElementShortName">eqa[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eqa[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/eqb" type="array">
+      <obj_property name="ElementShortName">eqb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eqb[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/eimm32" type="array">
+      <obj_property name="ElementShortName">eimm32[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eimm32[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/mr" type="array">
+      <obj_property name="ElementShortName">mr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/mqb" type="array">
+      <obj_property name="ElementShortName">mqb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mqb[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/wr" type="array">
+      <obj_property name="ElementShortName">wr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/wdo" type="array">
+      <obj_property name="ElementShortName">wdo[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wdo[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/ewreg" type="logic">
+      <obj_property name="ElementShortName">ewreg</obj_property>
+      <obj_property name="ObjectShortName">ewreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/em2reg" type="logic">
+      <obj_property name="ElementShortName">em2reg</obj_property>
+      <obj_property name="ObjectShortName">em2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/ewmem" type="logic">
+      <obj_property name="ElementShortName">ewmem</obj_property>
+      <obj_property name="ObjectShortName">ewmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/ealuimm" type="logic">
+      <obj_property name="ElementShortName">ealuimm</obj_property>
+      <obj_property name="ObjectShortName">ealuimm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/mwreg" type="logic">
+      <obj_property name="ElementShortName">mwreg</obj_property>
+      <obj_property name="ObjectShortName">mwreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/mm2reg" type="logic">
+      <obj_property name="ElementShortName">mm2reg</obj_property>
+      <obj_property name="ObjectShortName">mm2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/mwmem" type="logic">
+      <obj_property name="ElementShortName">mwmem</obj_property>
+      <obj_property name="ObjectShortName">mwmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/wwreg" type="logic">
+      <obj_property name="ElementShortName">wwreg</obj_property>
+      <obj_property name="ObjectShortName">wwreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/wm2reg" type="logic">
+      <obj_property name="ElementShortName">wm2reg</obj_property>
+      <obj_property name="ObjectShortName">wm2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/ealuc" type="array">
+      <obj_property name="ElementShortName">ealuc[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ealuc[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/edestReg" type="array">
+      <obj_property name="ElementShortName">edestReg[4:0]</obj_property>
+      <obj_property name="ObjectShortName">edestReg[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/mdestReg" type="array">
+      <obj_property name="ElementShortName">mdestReg[4:0]</obj_property>
+      <obj_property name="ObjectShortName">mdestReg[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/wdestReg" type="array">
+      <obj_property name="ElementShortName">wdestReg[4:0]</obj_property>
+      <obj_property name="ObjectShortName">wdestReg[4:0]</obj_property>
+   </wvobject>
+</wave_config>
